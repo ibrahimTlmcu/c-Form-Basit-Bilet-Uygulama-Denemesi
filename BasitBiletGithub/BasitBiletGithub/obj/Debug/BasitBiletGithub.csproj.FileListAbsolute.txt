@@ -1,0 +1,11 @@
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\bin\Debug\BasitBiletGithub.exe.config
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\bin\Debug\BasitBiletGithub.exe
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\bin\Debug\BasitBiletGithub.pdb
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.Form1.resources
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.Properties.Resources.resources
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.exe
+C:\Users\Casper\source\repos\BasitBiletGithub\BasitBiletGithub\obj\Debug\BasitBiletGithub.pdb
